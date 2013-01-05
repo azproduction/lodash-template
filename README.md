@@ -1,4 +1,4 @@
 lodash-template
 ===============
 
-_.template without full lodash source
+_.template() without full lodash source
